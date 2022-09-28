@@ -1,6 +1,6 @@
 {
-  "name": "react-indexed-db",
-  "version": "1.0.12",
+  "name": "react-indexed-db-2",
+  "version": "1.0.14",
   "description": "React wrapper to IndexedDB database.",
   "main": "lib/main.js",
   "types": "lib/index.d.ts",
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/assuncaocharles/react-indexed-db.git"
+    "url": "git+https://github.com/sharadjoe/react-indexed-db-2.git"
   },
   "author": "Charles Assunção",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/assuncaocharles/react-indexed-db/issues"
+    "url": "https://github.com/sharadjoe/react-indexed-db-2/issues"
   },
   "keywords": [
     "indexed",
@@ -37,9 +37,9 @@
   ],
   "homepage": "https://github.com/assuncaocharles/react-indexed-db",
   "peerDependencies": {
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
-    "react-scripts": "^3.1.1"
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-scripts": "^4.0.3"
   },
   "devDependencies": {
     "@types/react": "^16.9.1",
@@ -49,7 +49,7 @@
     "ts-loader": "^6.0.4",
     "tslint": "~5.9.1",
     "typedoc": "^0.15.0",
-    "typescript": "^3.1.6",
+    "typescript": "^4.8.2",
     "webpack": "^4.39.2",
     "webpack-cli": "^3.3.6"
   }
